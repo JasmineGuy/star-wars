@@ -4,6 +4,11 @@
   background-repeat: no-repeat;
   height: 90vh;
   padding: 1rem;
+  color: white;
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .character-container:hover {
   cursor: pointer;
