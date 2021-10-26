@@ -1,0 +1,7 @@
+.c-card {
+  /* border: 1px solid blue; */
+}
+.c-card:hover {
+  cursor: pointer;
+  color: yellow;
+}

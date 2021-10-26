@@ -1,0 +1,25 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: black;
+  color: white;
+}
+.left {
+  width: 10vw;
+}
+.right {
+  width: 20vw;
+  display: flex;
+  justify-content: space-between;
+}
+.nav {
+  color: white;
+  text-decoration: none;
+}
+.nav-active {
+  color: yellow;
+}
+.nav:hover {
+  color: yellow;
+}
